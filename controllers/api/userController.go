@@ -6,6 +6,11 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
+/**
+ * @Author wangdt
+ * @Date 2022-09-15 19:34:15
+ * @Description:
+ */
 type UserController struct {
 }
 

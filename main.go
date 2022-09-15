@@ -6,6 +6,11 @@ import (
 )
 import _ "net/http"
 
+/**
+ * @Author wangdt
+ * @Date 2022-09-15 19:35:20
+ * @Description: 
+ */
 type stuck struct {
 	Name string `json:"name"`
 	Age  string `json:"age"`

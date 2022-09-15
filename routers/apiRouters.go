@@ -6,6 +6,12 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
+/**
+ * @Author wangdt
+ * @Description //TODO ${end}
+ * @Date 2022-09-15 19:35:08
+ * @Param r
+ **/
 func ApiRoutersInit(r *gin.Engine) {
 
 	apiRouter := r.Group("/api",
